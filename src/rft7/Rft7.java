@@ -14,9 +14,9 @@ public class Rft7 {
      * @return a szám1 és szám2 szorzata
      *
      */
-    
+    ez itt a változás
     public static int szorzás(int szám1, int szám2){
-    return szám1*szám2;asdasdasdas
+    return szám1*szám2;
      }
     public static void main(String[] args) {
 
