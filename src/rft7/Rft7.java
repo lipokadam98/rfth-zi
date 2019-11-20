@@ -16,7 +16,7 @@ public class Rft7 {
      */
     
     public static int szorzás(int szám1, int szám2){
-    return szám1*szám2;
+    return szám1*szám2;asdasdasdas
      }
     public static void main(String[] args) {
 
